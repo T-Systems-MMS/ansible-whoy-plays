@@ -1,3 +1,3 @@
 # ansible-whoy-plays
 
-## Work in Progress - Doku kommt
+## Work in Progress - Documentation coming soon
